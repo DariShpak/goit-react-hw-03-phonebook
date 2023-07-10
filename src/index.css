@@ -7,9 +7,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("images/88001492acf6a3b6276878523b26d7fe.jpg");
+  background-image: url("./components/backgroundImg/88001492acf6a3b6276878523b26d7fe.jpg");
+  background-size: 65%;
   background-repeat: no-repeat;
-  background-size: 370px;
   background-position: center;
 }
 
